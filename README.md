@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bvs2006
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning ML Concepts,Web Development,Cloud Services and use Automation tools
+- 🌱 I’m currently learning ML Concepts,Web Development,Cloud Services and use of Automation tools
 
 
 ## 🌐 Socials:
