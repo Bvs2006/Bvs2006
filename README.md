@@ -54,7 +54,6 @@ Passionate about building intelligent systems, scalable web applications, and so
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![PowerBI](https://skillicons.dev/icons?i=aws)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
